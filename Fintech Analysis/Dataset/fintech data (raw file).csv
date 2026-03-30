@@ -1,0 +1,1001 @@
+transaction_id,user_id,transaction_date,transaction_type,amount,channel,location,device,transaction_status,balance_before,balance_after 
+TXN001,U001,01/03/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN002,U002,03/02/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN003,U003,03/03/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN004,U004,04/03/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN005,U005,05/03/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN006,U006,05/03/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN007,U007,06/03/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN008,U008,07/03/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN009,U009,08/03/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN010,U010,09/03/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN011,U011,10/03/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN012,U012,11/03/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN013,U013,12/03/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN014,U014,13/03/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN015,U015,14/03/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN016,U016,15/03/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN017,U017,16/03/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN018,U018,17/03/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN019,U019,18/03/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN020,U020,19/03/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN021,U021,20/03/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN022,U022,21/03/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN023,U023,22/03/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN024,U024,23/03/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN025,U025,24/03/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN026,U026,25/03/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN027,U027,26/03/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN028,U028,27/03/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN029,U029,28/03/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN030,U030,29/03/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN031,U031,30/03/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN032,U032,31/03/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN033,U033,01/04/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN034,U034,02/04/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN035,U035,03/04/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN036,U036,04/04/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN037,U037,05/04/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN038,U038,06/04/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN039,U039,07/04/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN040,U040,08/04/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN041,U041,09/04/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN042,U042,10/04/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN043,U043,11/04/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN044,U044,12/04/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN045,U045,13/04/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN046,U046,14/04/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN047,U047,15/04/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN048,U048,16/04/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN049,U049,17/04/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN050,U050,18/04/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN051,U051,19/04/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN052,U052,20/04/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN053,U053,21/04/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN054,U054,22/04/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN055,U055,23/04/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN056,U056,24/04/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN057,U057,25/04/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN058,U058,26/04/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN059,U059,27/04/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN060,U060,28/04/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN061,U061,29/04/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN062,U062,30/04/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN063,U063,01/05/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN064,U064,02/05/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN065,U065,03/05/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN066,U066,04/05/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN067,U067,05/05/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN068,U068,06/05/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN069,U069,07/05/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN070,U070,08/05/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN071,U071,09/05/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN072,U072,10/05/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN073,U073,11/05/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN074,U074,12/05/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN075,U075,13/05/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN076,U076,14/05/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN077,U077,15/05/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN078,U078,16/05/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN079,U079,17/05/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN080,U080,18/05/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN081,U081,19/05/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN082,U082,20/05/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN083,U083,21/05/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN084,U084,22/05/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN085,U085,23/05/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN086,U086,24/05/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN087,U087,25/05/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN088,U088,26/05/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN089,U089,27/05/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN090,U090,28/05/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN091,U091,29/05/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN092,U092,30/05/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN093,U093,31/05/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN094,U094,01/06/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN095,U095,02/06/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN096,U096,03/06/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN097,U097,04/06/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN098,U098,05/06/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN099,U099,06/06/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN100,U100,07/06/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN101,U101,08/06/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN102,U102,09/06/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN103,U103,10/06/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN104,U104,11/06/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN105,U105,12/06/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN106,U106,13/06/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN107,U107,14/06/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN108,U108,15/06/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN109,U109,16/06/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN110,U110,17/06/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN111,U111,18/06/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN112,U112,19/06/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN113,U113,20/06/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN114,U114,21/06/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN115,U115,22/06/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN116,U116,23/06/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN117,U117,24/06/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN118,U118,25/06/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN119,U119,26/06/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN120,U120,27/06/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN121,U121,28/06/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN122,U122,29/06/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN123,U123,30/06/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN124,U124,01/07/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN125,U125,02/07/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN126,U126,03/07/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN127,U127,04/07/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN128,U128,05/07/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN129,U129,06/07/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN130,U130,07/07/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN131,U131,08/07/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN132,U132,09/07/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN133,U133,10/07/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN134,U134,11/07/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN135,U135,12/07/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN136,U136,13/07/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN137,U137,14/07/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN138,U138,15/07/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN139,U139,16/07/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN140,U140,17/07/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN141,U141,18/07/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN142,U142,19/07/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN143,U143,20/07/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN144,U144,21/07/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN145,U145,22/07/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN146,U146,23/07/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN147,U147,24/07/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN148,U148,25/07/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN149,U149,26/07/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN150,U150,27/07/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN151,U151,28/07/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN152,U152,29/07/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN153,U153,30/07/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN154,U154,31/07/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN155,U155,01/08/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN156,U156,02/08/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN157,U157,03/08/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN158,U158,04/08/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN159,U159,05/08/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN160,U160,06/08/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN161,U161,07/08/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN162,U162,08/08/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN163,U163,09/08/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN164,U164,10/08/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN165,U165,11/08/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN166,U166,12/08/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN167,U167,13/08/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN168,U168,14/08/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN169,U169,15/08/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN170,U170,16/08/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN171,U171,17/08/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN172,U172,18/08/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN173,U173,19/08/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN174,U174,20/08/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN175,U175,21/08/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN176,U176,22/08/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN177,U177,23/08/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN178,U178,24/08/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN179,U179,25/08/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN180,U180,26/08/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN181,U181,27/08/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN182,U182,28/08/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN183,U183,29/08/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN184,U184,30/08/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN185,U185,31/08/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN186,U186,01/09/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN187,U187,02/09/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN188,U188,03/09/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN189,U189,04/09/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN190,U190,05/09/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN191,U191,06/09/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN192,U192,07/09/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN193,U193,08/09/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN194,U194,09/09/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN195,U195,10/09/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN196,U196,11/09/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN197,U197,12/09/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN198,U198,13/09/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN199,U199,14/09/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN200,U200,15/09/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN201,U201,16/09/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN202,U202,17/09/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN203,U203,18/09/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN204,U204,19/09/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN205,U205,20/09/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN206,U206,21/09/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN207,U207,22/09/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN208,U208,23/09/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN209,U209,24/09/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN210,U210,25/09/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN211,U211,26/09/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN212,U212,27/09/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN213,U213,28/09/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN214,U214,29/09/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN215,U215,30/09/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN216,U216,01/10/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN217,U217,02/10/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN218,U218,03/10/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN219,U219,04/10/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN220,U220,05/10/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN221,U221,06/10/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN222,U222,07/10/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN223,U223,08/10/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN224,U224,09/10/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN225,U225,10/10/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN226,U226,11/10/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN227,U227,12/10/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN228,U228,13/10/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN229,U229,14/10/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN230,U230,15/10/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN231,U231,16/10/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN232,U232,17/10/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN233,U233,18/10/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN234,U234,19/10/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN235,U235,20/10/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN236,U236,21/10/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN237,U237,22/10/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN238,U238,23/10/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN239,U239,24/10/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN240,U240,25/10/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN241,U241,26/10/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN242,U242,27/10/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN243,U243,28/10/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN244,U244,29/10/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN245,U245,30/10/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN246,U246,31/10/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN247,U247,01/11/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN248,U248,02/11/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN249,U249,03/11/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN250,U250,04/11/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN251,U251,05/11/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN252,U252,06/11/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN253,U253,07/11/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN254,U254,08/11/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN255,U255,09/11/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN256,U256,10/11/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN257,U257,11/11/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN258,U258,12/11/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN259,U259,13/11/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN260,U260,14/11/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN261,U261,15/11/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN262,U262,16/11/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN263,U263,17/11/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN264,U264,18/11/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN265,U265,19/11/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN266,U266,20/11/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN267,U267,21/11/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN268,U268,22/11/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN269,U269,23/11/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN270,U270,24/11/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN271,U271,25/11/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN272,U272,26/11/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN273,U273,27/11/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN274,U274,28/11/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN275,U275,29/11/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN276,U276,30/11/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN277,U277,01/12/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN278,U278,02/12/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN279,U279,03/12/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN280,U280,04/12/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN281,U281,05/12/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN282,U282,06/12/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN283,U283,07/12/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN284,U284,08/12/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN285,U285,09/12/2023,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN286,U286,10/12/2023,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN287,U287,11/12/2023,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN288,U288,12/12/2023,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN289,U289,13/12/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN290,U290,14/12/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN291,U291,15/12/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN292,U292,16/12/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN293,U293,17/12/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN294,U294,18/12/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN295,U295,19/12/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN296,U296,20/12/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN297,U297,21/12/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN298,U298,22/12/2023,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN299,U299,23/12/2023,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN300,U300,24/12/2023,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN301,U301,25/12/2023,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN302,U302,26/12/2023,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN303,U303,27/12/2023,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN304,U304,28/12/2023,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN305,U305,29/12/2023,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN306,U306,30/12/2023,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN307,U307,31/12/2023,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN308,U308,01/01/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN309,U309,02/01/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN310,U310,03/01/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN311,U311,04/01/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN312,U312,05/01/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN313,U313,06/01/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN314,U314,07/01/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN315,U315,08/01/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN316,U316,09/01/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN317,U317,10/01/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN318,U318,11/01/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN319,U319,12/01/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN320,U320,13/01/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN321,U321,14/01/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN322,U322,15/01/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN323,U323,16/01/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN324,U324,17/01/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN325,U325,18/01/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN326,U326,19/01/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN327,U327,20/01/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN328,U328,21/01/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN329,U329,22/01/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN330,U330,23/01/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN331,U331,24/01/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN332,U332,25/01/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN333,U333,26/01/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN334,U334,27/01/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN335,U335,28/01/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN336,U336,29/01/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN337,U337,30/01/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN338,U338,31/01/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN339,U339,01/02/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN340,U340,02/02/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN341,U341,03/02/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN342,U342,04/02/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN343,U343,05/02/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN344,U344,06/02/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN345,U345,07/02/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN346,U346,08/02/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN347,U347,09/02/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN348,U348,10/02/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN349,U349,11/02/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN350,U350,12/02/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN351,U351,13/02/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN352,U352,14/02/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN353,U353,15/02/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN354,U354,16/02/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN355,U355,17/02/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN356,U356,18/02/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN357,U357,19/02/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN358,U358,20/02/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN359,U359,21/02/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN360,U360,22/02/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN361,U361,23/02/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN362,U362,24/02/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN363,U363,25/02/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN364,U364,26/02/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN365,U365,27/02/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN366,U366,28/02/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN367,U367,01/03/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN368,U368,02/03/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN369,U369,03/03/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN370,U370,04/03/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN371,U371,05/03/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN372,U372,06/03/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN373,U373,07/03/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN374,U374,08/03/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN375,U375,09/03/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN376,U376,10/03/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN377,U377,11/03/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN378,U378,12/03/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN379,U379,13/03/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN380,U380,14/03/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN381,U381,15/03/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN382,U382,16/03/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN383,U383,17/03/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN384,U384,18/03/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN385,U385,19/03/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN386,U386,20/03/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN387,U387,21/03/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN388,U388,22/03/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN389,U389,23/03/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN390,U390,24/03/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN391,U391,25/03/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN392,U392,26/03/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN393,U393,27/03/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN394,U394,28/03/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN395,U395,29/03/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN396,U396,30/03/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN397,U397,31/03/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN398,U398,01/04/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN399,U399,02/04/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN400,U400,03/04/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN401,U401,04/04/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN402,U402,05/04/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN403,U403,06/04/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN404,U404,07/04/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN405,U405,08/04/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN406,U406,09/04/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN407,U407,10/04/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN408,U408,11/04/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN409,U409,12/04/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN410,U410,13/04/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN411,U411,14/04/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN412,U412,15/04/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN413,U413,16/04/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN414,U414,17/04/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN415,U415,18/04/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN416,U416,19/04/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN417,U417,20/04/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN418,U418,21/04/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN419,U419,22/04/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN420,U420,23/04/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN421,U421,24/04/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN422,U422,25/04/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN423,U423,26/04/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN424,U424,27/04/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN425,U425,28/04/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN426,U426,29/04/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN427,U427,30/04/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN428,U428,01/05/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN429,U429,02/05/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN430,U430,03/05/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN431,U431,04/05/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN432,U432,05/05/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN433,U433,06/05/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN434,U434,07/05/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN435,U435,08/05/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN436,U436,09/05/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN437,U437,10/05/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN438,U438,11/05/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN439,U439,12/05/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN440,U440,13/05/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN441,U441,14/05/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN442,U442,15/05/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN443,U443,16/05/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN444,U444,17/05/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN445,U445,18/05/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN446,U446,19/05/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN447,U447,20/05/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN448,U448,21/05/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN449,U449,22/05/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN450,U450,23/05/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN451,U451,24/05/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN452,U452,25/05/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN453,U453,26/05/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN454,U454,27/05/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN455,U455,28/05/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN456,U456,29/05/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN457,U457,30/05/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN458,U458,31/05/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN459,U459,01/06/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN460,U460,02/06/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN461,U461,03/06/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN462,U462,04/06/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN463,U463,05/06/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN464,U464,06/06/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN465,U465,07/06/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN466,U466,08/06/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN467,U467,09/06/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN468,U468,10/06/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN469,U469,11/06/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN470,U470,12/06/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN471,U471,13/06/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN472,U472,14/06/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN473,U473,15/06/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN474,U474,16/06/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN475,U475,17/06/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN476,U476,18/06/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN477,U477,19/06/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN478,U478,20/06/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN479,U479,21/06/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN480,U480,22/06/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN481,U481,23/06/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN482,U482,24/06/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN483,U483,25/06/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN484,U484,26/06/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN485,U485,27/06/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN486,U486,28/06/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN487,U487,29/06/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN488,U488,30/06/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN489,U489,01/07/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN490,U490,02/07/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN491,U491,03/07/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN492,U492,04/07/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN493,U493,05/07/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN494,U494,06/07/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN495,U495,07/07/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN496,U496,08/07/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN497,U497,09/07/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN498,U498,10/07/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN499,U499,11/07/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN500,U500,12/07/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN501,U501,13/07/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN502,U502,14/07/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN503,U503,15/07/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN504,U504,16/07/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN505,U505,17/07/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN506,U506,18/07/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN507,U507,19/07/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN508,U508,20/07/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN509,U509,21/07/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN510,U510,22/07/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN511,U511,23/07/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN512,U512,24/07/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN513,U513,25/07/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN514,U514,26/07/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN515,U515,27/07/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN516,U516,28/07/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN517,U517,29/07/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN518,U518,30/07/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN519,U519,31/07/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN520,U520,01/08/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN521,U521,02/08/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN522,U522,03/08/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN523,U523,04/08/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN524,U524,05/08/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN525,U525,06/08/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN526,U526,07/08/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN527,U527,08/08/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN528,U528,09/08/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN529,U529,10/08/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN530,U530,11/08/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN531,U531,12/08/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN532,U532,13/08/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN533,U533,14/08/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN534,U534,15/08/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN535,U535,16/08/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN536,U536,17/08/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN537,U537,18/08/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN538,U538,19/08/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN539,U539,20/08/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN540,U540,21/08/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN541,U541,22/08/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN542,U542,23/08/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN543,U543,24/08/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN544,U544,25/08/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN545,U545,26/08/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN546,U546,27/08/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN547,U547,28/08/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN548,U548,29/08/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN549,U549,30/08/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN550,U550,31/08/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN551,U551,01/09/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN552,U552,02/09/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN553,U553,03/09/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN554,U554,04/09/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN555,U555,05/09/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN556,U556,06/09/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN557,U557,07/09/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN558,U558,08/09/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN559,U559,09/09/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN560,U560,10/09/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN561,U561,11/09/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN562,U562,12/09/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN563,U563,13/09/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN564,U564,14/09/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN565,U565,15/09/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN566,U566,16/09/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN567,U567,17/09/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN568,U568,18/09/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN569,U569,19/09/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN570,U570,20/09/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN571,U571,21/09/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN572,U572,22/09/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN573,U573,23/09/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN574,U574,24/09/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN575,U575,25/09/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN576,U576,26/09/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN577,U577,27/09/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN578,U578,28/09/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN579,U579,29/09/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN580,U580,30/09/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN581,U581,01/10/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN582,U582,02/10/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN583,U583,03/10/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN584,U584,04/10/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN585,U585,05/10/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN586,U586,06/10/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN587,U587,07/10/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN588,U588,08/10/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN589,U589,09/10/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN590,U590,10/10/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN591,U591,11/10/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN592,U592,12/10/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN593,U593,13/10/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN594,U594,14/10/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN595,U595,15/10/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN596,U596,16/10/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN597,U597,17/10/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN598,U598,18/10/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN599,U599,19/10/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN600,U600,20/10/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN601,U601,21/10/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN602,U602,22/10/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN603,U603,23/10/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN604,U604,24/10/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN605,U605,25/10/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN606,U606,26/10/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN607,U607,27/10/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN608,U608,28/10/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN609,U609,29/10/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN610,U610,30/10/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN611,U611,31/10/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN612,U612,01/11/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN613,U613,02/11/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN614,U614,03/11/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN615,U615,04/11/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN616,U616,05/11/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN617,U617,06/11/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN618,U618,07/11/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN619,U619,08/11/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN620,U620,09/11/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN621,U621,10/11/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN622,U622,11/11/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN623,U623,12/11/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN624,U624,13/11/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN625,U625,14/11/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN626,U626,15/11/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN627,U627,16/11/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN628,U628,17/11/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN629,U629,18/11/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN630,U630,19/11/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN631,U631,20/11/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN632,U632,21/11/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN633,U633,22/11/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN634,U634,23/11/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN635,U635,24/11/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN636,U636,25/11/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN637,U637,26/11/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN638,U638,27/11/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN639,U639,28/11/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN640,U640,29/11/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN641,U641,30/11/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN642,U642,01/12/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN643,U643,02/12/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN644,U644,03/12/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN645,U645,04/12/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN646,U646,05/12/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN647,U647,06/12/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN648,U648,07/12/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN649,U649,08/12/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN650,U650,09/12/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN651,U651,10/12/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN652,U652,11/12/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN653,U653,12/12/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN654,U654,13/12/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN655,U655,14/12/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN656,U656,15/12/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN657,U657,16/12/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN658,U658,17/12/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN659,U659,18/12/2024,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN660,U660,19/12/2024,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN661,U661,20/12/2024,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN662,U662,21/12/2024,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN663,U663,22/12/2024,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN664,U664,23/12/2024,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN665,U665,24/12/2024,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN666,U666,25/12/2024,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN667,U667,26/12/2024,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN668,U668,27/12/2024,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN669,U669,28/12/2024,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN670,U670,29/12/2024,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN671,U671,30/12/2024,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN672,U672,31/12/2024,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN673,U673,01/01/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN674,U674,02/01/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN675,U675,03/01/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN676,U676,04/01/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN677,U677,05/01/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN678,U678,06/01/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN679,U679,07/01/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN680,U680,08/01/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN681,U681,09/01/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN682,U682,10/01/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN683,U683,11/01/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN684,U684,12/01/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN685,U685,13/01/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN686,U686,14/01/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN687,U687,15/01/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN688,U688,16/01/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN689,U689,17/01/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN690,U690,18/01/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN691,U691,19/01/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN692,U692,20/01/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN693,U693,21/01/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN694,U694,22/01/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN695,U695,23/01/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN696,U696,24/01/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN697,U697,25/01/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN698,U698,26/01/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN699,U699,27/01/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN700,U700,28/01/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN701,U701,29/01/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN702,U702,30/01/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN703,U703,31/01/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN704,U704,01/02/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN705,U705,02/02/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN706,U706,03/02/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN707,U707,04/02/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN708,U708,05/02/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN709,U709,06/02/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN710,U710,07/02/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN711,U711,08/02/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN712,U712,09/02/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN713,U713,10/02/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN714,U714,11/02/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN715,U715,12/02/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN716,U716,13/02/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN717,U717,14/02/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN718,U718,15/02/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN719,U719,16/02/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN720,U720,17/02/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN721,U721,18/02/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN722,U722,19/02/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN723,U723,20/02/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN724,U724,21/02/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN725,U725,22/02/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN726,U726,23/02/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN727,U727,24/02/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN728,U728,25/02/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN729,U729,26/02/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN730,U730,27/02/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN731,U731,28/02/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN732,U732,01/03/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN733,U733,02/03/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN734,U734,03/03/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN735,U735,04/03/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN736,U736,05/03/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN737,U737,06/03/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN738,U738,07/03/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN739,U739,08/03/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN740,U740,09/03/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN741,U741,10/03/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN742,U742,11/03/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN743,U743,12/03/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN744,U744,13/03/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN745,U745,14/03/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN746,U746,15/03/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN747,U747,16/03/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN748,U748,17/03/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN749,U749,18/03/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN750,U750,19/03/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN751,U751,20/03/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN752,U752,21/03/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN753,U753,22/03/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN754,U754,23/03/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN755,U755,24/03/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN756,U756,25/03/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN757,U757,26/03/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN758,U758,27/03/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN759,U759,28/03/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN760,U760,29/03/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN761,U761,30/03/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN762,U762,31/03/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN763,U763,01/04/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN764,U764,02/04/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN765,U765,03/04/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN766,U766,04/04/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN767,U767,05/04/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN768,U768,06/04/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN769,U769,07/04/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN770,U770,08/04/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN771,U771,09/04/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN772,U772,10/04/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN773,U773,11/04/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN774,U774,12/04/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN775,U775,13/04/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN776,U776,14/04/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN777,U777,15/04/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN778,U778,16/04/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN779,U779,17/04/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN780,U780,18/04/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN781,U781,19/04/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN782,U782,20/04/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN783,U783,21/04/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN784,U784,22/04/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN785,U785,23/04/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN786,U786,24/04/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN787,U787,25/04/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN788,U788,26/04/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN789,U789,27/04/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN790,U790,28/04/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN791,U791,29/04/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN792,U792,30/04/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN793,U793,01/05/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN794,U794,02/05/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN795,U795,03/05/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN796,U796,04/05/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN797,U797,05/05/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN798,U798,06/05/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN799,U799,07/05/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN800,U800,08/05/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN801,U801,09/05/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN802,U802,10/05/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN803,U803,11/05/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN804,U804,12/05/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN805,U805,13/05/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN806,U806,14/05/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN807,U807,15/05/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN808,U808,16/05/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN809,U809,17/05/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN810,U810,18/05/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN811,U811,19/05/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN812,U812,20/05/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN813,U813,21/05/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN814,U814,22/05/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN815,U815,23/05/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN816,U816,24/05/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN817,U817,25/05/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN818,U818,26/05/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN819,U819,27/05/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN820,U820,28/05/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN821,U821,29/05/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN822,U822,30/05/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN823,U823,31/05/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN824,U824,01/06/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN825,U825,02/06/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN826,U826,03/06/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN827,U827,04/06/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN828,U828,05/06/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN829,U829,06/06/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN830,U830,07/06/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN831,U831,08/06/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN832,U832,09/06/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN833,U833,10/06/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN834,U834,11/06/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN835,U835,12/06/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN836,U836,13/06/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN837,U837,14/06/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN838,U838,15/06/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN839,U839,16/06/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN840,U840,17/06/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN841,U841,18/06/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN842,U842,19/06/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN843,U843,20/06/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN844,U844,21/06/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN845,U845,22/06/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN846,U846,23/06/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN847,U847,24/06/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN848,U848,25/06/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN849,U849,26/06/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN850,U850,27/06/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN851,U851,28/06/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN852,U852,29/06/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN853,U853,30/06/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN854,U854,01/07/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN855,U855,02/07/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN856,U856,03/07/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN857,U857,04/07/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN858,U858,05/07/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN859,U859,06/07/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN860,U860,07/07/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN861,U861,08/07/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN862,U862,09/07/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN863,U863,10/07/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN864,U864,11/07/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN865,U865,12/07/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN866,U866,13/07/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN867,U867,14/07/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN868,U868,15/07/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN869,U869,16/07/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN870,U870,17/07/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN871,U871,18/07/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN872,U872,19/07/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN873,U873,20/07/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN874,U874,21/07/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN875,U875,22/07/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN876,U876,23/07/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN877,U877,24/07/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN878,U878,25/07/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN879,U879,26/07/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN880,U880,27/07/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN881,U881,28/07/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN882,U882,29/07/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN883,U883,30/07/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN884,U884,31/07/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN885,U885,01/08/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN886,U886,02/08/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN887,U887,03/08/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN888,U888,04/08/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN889,U889,05/08/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN890,U890,06/08/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN891,U891,07/08/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN892,U892,08/08/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN893,U893,09/08/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN894,U894,10/08/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN895,U895,11/08/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN896,U896,12/08/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN897,U897,13/08/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN898,U898,14/08/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN899,U899,15/08/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN900,U900,16/08/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN901,U901,17/08/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN902,U902,18/08/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN903,U903,19/08/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN904,U904,20/08/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN905,U905,21/08/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN906,U906,22/08/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN907,U907,23/08/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN908,U908,24/08/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN909,U909,25/08/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN910,U910,26/08/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN911,U911,27/08/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN912,U912,28/08/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN913,U913,29/08/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN914,U914,30/08/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN915,U915,31/08/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN916,U916,01/09/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN917,U917,02/09/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN918,U918,03/09/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN919,U919,04/09/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN920,U920,05/09/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN921,U921,06/09/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN922,U922,07/09/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN923,U923,08/09/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN924,U924,09/09/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN925,U925,10/09/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN926,U926,11/09/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN927,U927,12/09/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN928,U928,13/09/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN929,U929,14/09/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN930,U930,15/09/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN931,U931,16/09/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN932,U932,17/09/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN933,U933,18/09/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN934,U934,19/09/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN935,U935,20/09/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN936,U936,21/09/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN937,U937,22/09/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN938,U938,23/09/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN939,U939,24/09/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN940,U940,25/09/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN941,U941,26/09/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN942,U942,27/09/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN943,U943,28/09/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN944,U944,29/09/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN945,U945,30/09/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN946,U946,01/10/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN947,U947,02/10/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN948,U948,03/10/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN949,U949,04/10/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN950,U950,05/10/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN951,U951,06/10/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN952,U952,07/10/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN953,U953,08/10/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN954,U954,09/10/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN955,U955,10/10/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN956,U956,11/10/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN957,U957,12/10/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN958,U958,13/10/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN959,U959,14/10/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN960,U960,15/10/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN961,U961,16/10/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN962,U962,17/10/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN963,U963,18/10/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN964,U964,19/10/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN965,U965,20/10/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN966,U966,21/10/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN967,U967,22/10/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN968,U968,23/10/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN969,U969,24/10/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN970,U970,25/10/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN971,U971,26/10/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN972,U972,27/10/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN973,U973,28/10/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN974,U974,29/10/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN975,U975,30/10/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN976,U976,31/10/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN977,U977,01/11/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN978,U978,02/11/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN979,U979,03/11/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN980,U980,04/11/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN981,U981,05/11/2025,Transfer,9800,Mobile,Enugu,iPhone,Success,15000,5000
+TXN982,U982,06/11/2025,Transfer,10000,Mobile,Enugu,iPhone,Success,11000,3000
+TXN983,U983,07/11/2025,Transfer,8000,Mobile,Enugu,iPhone,Success,10000,1000
+TXN984,U984,08/11/2025,Transfer,5000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN985,U985,09/11/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN986,U986,10/11/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN987,U987,11/11/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN988,U988,12/11/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN989,U989,13/11/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN990,U990,14/11/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
+TXN991,U991,15/11/2025,Deposit,20000,USSD,,Feature Phone,Success,2000,22000
+TXN992,U992,16/11/2025,Withdrawal,500,ATM,Lagos,,Success,5000,4500
+TXN993,U993,17/11/2025,Payment,1200,Mobile,Abuja,Android,Failed,6000,6000
+TXN994,U994,18/11/2025,Transfer,9000,Mobile,Enugu,iPhone,Success,12000,3000
+TXN995,U995,19/11/2025,Transfer,5000,Mobile,Enugu,Android,Success,20000,15000
+TXN996,U996,20/11/2025,Deposit,10000,USSD,Lagos,Feature Phone,Success,5000,15000
+TXN997,U997,21/11/2025,Withdrawal,2000,ATM,Abuja,Android,Failed,8000,8000
+TXN998,U998,22/11/2025,Transfer,,Mobile,Kano,iPhone,Success,30000,15000
+TXN999,U999,23/11/2025,Payment,3000,Mobile,Port Harcourt,Android,Success,10000,7000
+TXN1000,U1000,24/11/2025,Transfer,7000,,Enugu,Android,Success,15000,8000
